@@ -1,0 +1,6 @@
+key.backspace=Remove event
+key.enter=Complete pass
+key.esc=Log out
+key.categories.misc=BackSpace
+key.categories.misc=Enter
+key.categories.misc=LogOut

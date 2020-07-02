@@ -1,0 +1,20 @@
+modLoader="javafml" #mandatory
+
+loaderVersion="[28,)" #mandatory (28 is current forge version)
+
+[[mods]] #mandatory
+
+modId="password3d" #mandatory
+
+version="1.0" #mandatory
+
+displayName="Password 3D" #mandatory
+
+credits="Ok" #optional
+
+authors="Sarunas Valiulis" #optional
+
+description='''
+	Mod to simulate 3D passwords
+'''
+
